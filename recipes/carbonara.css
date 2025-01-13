@@ -6,12 +6,7 @@
 h1{
     color:white;
     font-size:36px;
-
     text-align:center;
-    padding:8px;
-    background:linear-gradient(rgb(211, 44, 72), rgb(255, 69, 227),rgb(184, 81, 119));
-    margin:24px;
-    border-radius:10px;
 }
 ul{
     font-size:24px;
@@ -22,6 +17,5 @@ li{
     padding:24px;
     margin:8px;
     border-radius: 5px;
-    text-align:center;
     background-color:rgba(245, 245, 245, 0.905)
 }
